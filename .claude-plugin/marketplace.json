@@ -1,0 +1,14 @@
+{
+  "name": "skill-determinizer",
+  "owner": {
+    "name": "owirsching"
+  },
+  "plugins": [
+    {
+      "name": "skill-determinizer",
+      "source": "./",
+      "description": "Converts a SKILL.md's natural-language instructions into deterministic, verified code and commands wherever possible.",
+      "version": "0.1.0"
+    }
+  ]
+}
