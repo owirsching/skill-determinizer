@@ -6,6 +6,11 @@ decision tables. Ambiguous conventions (naming, thresholds, tool choice) are
 asked about, not guessed. Every proposed command is actually run and
 verified before it's written into the skill.
 
+<img width="1280" height="996" alt="Convert to GIF project - July 26, 2026 at 14 06 18" src="https://github.com/user-attachments/assets/7bd62d8e-fdc9-4699-9fed-0250fef61ef4" />
+
+
+
+
 ## Install
 
 **Plugin marketplace:**
